@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyToDoList</string>
+    <string name="task_title_hint">任务名称</string>
+    <string name="task_title_label">任务名</string>
+    <string name="task_delay_time">到期时间</string>
+    <string name="task_is_solved">已完成?</string>
+    <string name="date_picker_title">Delay time</string>
+</resources>

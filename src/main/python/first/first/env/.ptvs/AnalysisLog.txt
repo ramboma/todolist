@@ -1,0 +1,1104 @@
+﻿
+2017-06-13T10:47:58: Start analysis
+2017-06-13T10:47:58: IncludeModulesFromModulePath = win32com
+2017-06-13T10:47:58: Deleting 0 files
+2017-06-13T10:47:58: Scraping builtin modules
+2017-06-13T10:47:58: Command: e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Scripts\python.exe "D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\PythonScraper.py" e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\.ptvs "D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB"
+2017-06-13T10:48:00: Output
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_codecs.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_collections.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_functools.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_heapq.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_io.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_locale.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_md5.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_random.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sha256.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sha512.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_sre.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_struct.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_warnings.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\_weakref.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\array.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\binascii.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\cmath.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\errno.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\gc.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\itertools.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\marshal.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\math.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\mmap.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\msvcrt.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\nt.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\signal.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\sys.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\time.idb
+D:\ProgramFiles\Microsoft Visual Studio 11.0\Common7\IDE\Extensions\Microsoft\Python Tools for Visual Studio\2.1\CompletionDB\xxsubtype.idb
+2017-06-13T10:48:00: Scraped builtin modules
+2017-06-13T10:48:00: astropy.CallDepth = 0
+2017-06-13T10:48:00: matplotlib.CallDepth = 3
+2017-06-13T10:48:00: pandas.CallDepth = 0
+2017-06-13T10:48:00: sympy.CallDepth = 0
+2017-06-13T10:48:00: Start group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib" with 175 files
+2017-06-13T10:48:01: Parsing "abc" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\abc.py")
+2017-06-13T10:48:02: Parsing "base64" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\base64.py")
+2017-06-13T10:48:02: Parsing "bisect" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\bisect.py")
+2017-06-13T10:48:02: Parsing "codecs" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\codecs.py")
+2017-06-13T10:48:02: Parsing "copy" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\copy.py")
+2017-06-13T10:48:02: Parsing "copyreg" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\copyreg.py")
+2017-06-13T10:48:02: Parsing "fnmatch" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\fnmatch.py")
+2017-06-13T10:48:02: Parsing "functools" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\functools.py")
+2017-06-13T10:48:02: Parsing "genericpath" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\genericpath.py")
+2017-06-13T10:48:02: Parsing "hashlib" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\hashlib.py")
+2017-06-13T10:48:02: Parsing "heapq" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\heapq.py")
+2017-06-13T10:48:02: Parsing "hmac" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\hmac.py")
+2017-06-13T10:48:02: Parsing "imp" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\imp.py")
+2017-06-13T10:48:02: Parsing "io" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\io.py")
+2017-06-13T10:48:02: Parsing "keyword" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\keyword.py")
+2017-06-13T10:48:02: Parsing "linecache" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\linecache.py")
+2017-06-13T10:48:02: Parsing "locale" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\locale.py")
+2017-06-13T10:48:02: Parsing "ntpath" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\ntpath.py")
+2017-06-13T10:48:02: Parsing "operator" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\operator.py")
+2017-06-13T10:48:02: Parsing "os" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\os.py")
+2017-06-13T10:48:02: Parsing "posixpath" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\posixpath.py")
+2017-06-13T10:48:02: Parsing "random" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\random.py")
+2017-06-13T10:48:02: Parsing "re" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\re.py")
+2017-06-13T10:48:02: Parsing "reprlib" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\reprlib.py")
+2017-06-13T10:48:02: Parsing "rlcompleter" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\rlcompleter.py")
+2017-06-13T10:48:02: Parsing "shutil" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\shutil.py")
+2017-06-13T10:48:02: Parsing "site" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site.py")
+2017-06-13T10:48:02: Parsing "sre_compile" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\sre_compile.py")
+2017-06-13T10:48:02: Parsing "sre_constants" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\sre_constants.py")
+2017-06-13T10:48:02: Parsing "sre_parse" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\sre_parse.py")
+2017-06-13T10:48:02: Parsing "stat" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\stat.py")
+2017-06-13T10:48:02: Parsing "struct" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\struct.py")
+2017-06-13T10:48:02: Parsing "tarfile" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\tarfile.py")
+2017-06-13T10:48:02: Parsing "tempfile" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\tempfile.py")
+2017-06-13T10:48:02: Parsing "token" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\token.py")
+2017-06-13T10:48:02: Parsing "tokenize" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\tokenize.py")
+2017-06-13T10:48:02: Parsing "types" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\types.py")
+2017-06-13T10:48:02: Parsing "warnings" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\warnings.py")
+2017-06-13T10:48:02: Parsing "weakref" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\weakref.py")
+2017-06-13T10:48:02: Parsing "_bootlocale" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\_bootlocale.py")
+2017-06-13T10:48:02: Parsing "_collections_abc" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\_collections_abc.py")
+2017-06-13T10:48:02: Parsing "_dummy_thread" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\_dummy_thread.py")
+2017-06-13T10:48:02: Parsing "_weakrefset" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\_weakrefset.py")
+2017-06-13T10:48:02: Parsing "__future__" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\__future__.py")
+2017-06-13T10:48:02: Parsing "collections.abc" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\collections\abc.py")
+2017-06-13T10:48:02: Parsing "collections" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\collections\__init__.py")
+2017-06-13T10:48:02: Parsing "collections.__main__" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\collections\__main__.py")
+2017-06-13T10:48:02: Parsing "distutils" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\distutils\__init__.py")
+2017-06-13T10:48:02: Parsing "encodings.aliases" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\aliases.py")
+2017-06-13T10:48:02: Parsing "encodings.ascii" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\ascii.py")
+2017-06-13T10:48:02: Parsing "encodings.base64_codec" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\base64_codec.py")
+2017-06-13T10:48:02: Parsing "encodings.big5" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\big5.py")
+2017-06-13T10:48:02: Parsing "encodings.big5hkscs" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\big5hkscs.py")
+2017-06-13T10:48:02: Parsing "encodings.bz2_codec" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\bz2_codec.py")
+2017-06-13T10:48:02: Parsing "encodings.charmap" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\charmap.py")
+2017-06-13T10:48:02: Parsing "encodings.cp037" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp037.py")
+2017-06-13T10:48:02: Parsing "encodings.cp1006" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp1006.py")
+2017-06-13T10:48:02: Parsing "encodings.cp1026" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp1026.py")
+2017-06-13T10:48:02: Parsing "encodings.cp1125" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp1125.py")
+2017-06-13T10:48:02: Parsing "encodings.cp1140" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp1140.py")
+2017-06-13T10:48:02: Parsing "encodings.cp1250" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp1250.py")
+2017-06-13T10:48:02: Parsing "encodings.cp1251" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp1251.py")
+2017-06-13T10:48:02: Parsing "encodings.cp1252" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp1252.py")
+2017-06-13T10:48:02: Parsing "encodings.cp1253" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp1253.py")
+2017-06-13T10:48:02: Parsing "encodings.cp1254" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp1254.py")
+2017-06-13T10:48:02: Parsing "encodings.cp1255" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp1255.py")
+2017-06-13T10:48:02: Parsing "encodings.cp1256" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp1256.py")
+2017-06-13T10:48:02: Parsing "encodings.cp1257" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp1257.py")
+2017-06-13T10:48:02: Parsing "encodings.cp1258" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp1258.py")
+2017-06-13T10:48:02: Parsing "encodings.cp273" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp273.py")
+2017-06-13T10:48:02: Parsing "encodings.cp424" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp424.py")
+2017-06-13T10:48:02: Parsing "encodings.cp437" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp437.py")
+2017-06-13T10:48:02: Parsing "encodings.cp500" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp500.py")
+2017-06-13T10:48:02: Parsing "encodings.cp65001" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp65001.py")
+2017-06-13T10:48:02: Parsing "encodings.cp720" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp720.py")
+2017-06-13T10:48:02: Parsing "encodings.cp737" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp737.py")
+2017-06-13T10:48:02: Parsing "encodings.cp775" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp775.py")
+2017-06-13T10:48:02: Parsing "encodings.cp850" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp850.py")
+2017-06-13T10:48:02: Parsing "encodings.cp852" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp852.py")
+2017-06-13T10:48:02: Parsing "encodings.cp855" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp855.py")
+2017-06-13T10:48:02: Parsing "encodings.cp856" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp856.py")
+2017-06-13T10:48:02: Parsing "encodings.cp857" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp857.py")
+2017-06-13T10:48:02: Parsing "encodings.cp858" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp858.py")
+2017-06-13T10:48:02: Parsing "encodings.cp860" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp860.py")
+2017-06-13T10:48:02: Parsing "encodings.cp861" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp861.py")
+2017-06-13T10:48:02: Parsing "encodings.cp862" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp862.py")
+2017-06-13T10:48:02: Parsing "encodings.cp863" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp863.py")
+2017-06-13T10:48:02: Parsing "encodings.cp864" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp864.py")
+2017-06-13T10:48:02: Parsing "encodings.cp865" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp865.py")
+2017-06-13T10:48:02: Parsing "encodings.cp866" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp866.py")
+2017-06-13T10:48:02: Parsing "encodings.cp869" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp869.py")
+2017-06-13T10:48:02: Parsing "encodings.cp874" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp874.py")
+2017-06-13T10:48:02: Parsing "encodings.cp875" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp875.py")
+2017-06-13T10:48:02: Parsing "encodings.cp932" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp932.py")
+2017-06-13T10:48:02: Parsing "encodings.cp949" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp949.py")
+2017-06-13T10:48:02: Parsing "encodings.cp950" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\cp950.py")
+2017-06-13T10:48:02: Parsing "encodings.euc_jisx0213" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\euc_jisx0213.py")
+2017-06-13T10:48:02: Parsing "encodings.euc_jis_2004" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\euc_jis_2004.py")
+2017-06-13T10:48:02: Parsing "encodings.euc_jp" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\euc_jp.py")
+2017-06-13T10:48:02: Parsing "encodings.euc_kr" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\euc_kr.py")
+2017-06-13T10:48:02: Parsing "encodings.gb18030" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\gb18030.py")
+2017-06-13T10:48:02: Parsing "encodings.gb2312" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\gb2312.py")
+2017-06-13T10:48:02: Parsing "encodings.gbk" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\gbk.py")
+2017-06-13T10:48:02: Parsing "encodings.hex_codec" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\hex_codec.py")
+2017-06-13T10:48:02: Parsing "encodings.hp_roman8" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\hp_roman8.py")
+2017-06-13T10:48:02: Parsing "encodings.hz" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\hz.py")
+2017-06-13T10:48:02: Parsing "encodings.idna" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\idna.py")
+2017-06-13T10:48:02: Parsing "encodings.iso2022_jp" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso2022_jp.py")
+2017-06-13T10:48:02: Parsing "encodings.iso2022_jp_1" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso2022_jp_1.py")
+2017-06-13T10:48:02: Parsing "encodings.iso2022_jp_2" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso2022_jp_2.py")
+2017-06-13T10:48:02: Parsing "encodings.iso2022_jp_2004" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso2022_jp_2004.py")
+2017-06-13T10:48:02: Parsing "encodings.iso2022_jp_3" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso2022_jp_3.py")
+2017-06-13T10:48:02: Parsing "encodings.iso2022_jp_ext" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso2022_jp_ext.py")
+2017-06-13T10:48:02: Parsing "encodings.iso2022_kr" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso2022_kr.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_1" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_1.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_10" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_10.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_11" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_11.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_13" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_13.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_14" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_14.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_15" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_15.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_16" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_16.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_2" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_2.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_3" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_3.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_4" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_4.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_5" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_5.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_6" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_6.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_7" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_7.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_8" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_8.py")
+2017-06-13T10:48:02: Parsing "encodings.iso8859_9" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\iso8859_9.py")
+2017-06-13T10:48:02: Parsing "encodings.johab" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\johab.py")
+2017-06-13T10:48:02: Parsing "encodings.koi8_r" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\koi8_r.py")
+2017-06-13T10:48:02: Parsing "encodings.koi8_u" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\koi8_u.py")
+2017-06-13T10:48:02: Parsing "encodings.latin_1" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\latin_1.py")
+2017-06-13T10:48:02: Parsing "encodings.mac_arabic" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\mac_arabic.py")
+2017-06-13T10:48:02: Parsing "encodings.mac_centeuro" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\mac_centeuro.py")
+2017-06-13T10:48:02: Parsing "encodings.mac_croatian" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\mac_croatian.py")
+2017-06-13T10:48:02: Parsing "encodings.mac_cyrillic" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\mac_cyrillic.py")
+2017-06-13T10:48:02: Parsing "encodings.mac_farsi" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\mac_farsi.py")
+2017-06-13T10:48:02: Parsing "encodings.mac_greek" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\mac_greek.py")
+2017-06-13T10:48:02: Parsing "encodings.mac_iceland" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\mac_iceland.py")
+2017-06-13T10:48:02: Parsing "encodings.mac_latin2" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\mac_latin2.py")
+2017-06-13T10:48:02: Parsing "encodings.mac_roman" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\mac_roman.py")
+2017-06-13T10:48:02: Parsing "encodings.mac_romanian" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\mac_romanian.py")
+2017-06-13T10:48:02: Parsing "encodings.mac_turkish" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\mac_turkish.py")
+2017-06-13T10:48:02: Parsing "encodings.mbcs" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\mbcs.py")
+2017-06-13T10:48:02: Parsing "encodings.palmos" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\palmos.py")
+2017-06-13T10:48:02: Parsing "encodings.ptcp154" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\ptcp154.py")
+2017-06-13T10:48:02: Parsing "encodings.punycode" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\punycode.py")
+2017-06-13T10:48:02: Parsing "encodings.quopri_codec" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\quopri_codec.py")
+2017-06-13T10:48:02: Parsing "encodings.raw_unicode_escape" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\raw_unicode_escape.py")
+2017-06-13T10:48:02: Parsing "encodings.rot_13" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\rot_13.py")
+2017-06-13T10:48:02: Parsing "encodings.shift_jis" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\shift_jis.py")
+2017-06-13T10:48:02: Parsing "encodings.shift_jisx0213" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\shift_jisx0213.py")
+2017-06-13T10:48:02: Parsing "encodings.shift_jis_2004" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\shift_jis_2004.py")
+2017-06-13T10:48:02: Parsing "encodings.tis_620" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\tis_620.py")
+2017-06-13T10:48:02: Parsing "encodings.undefined" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\undefined.py")
+2017-06-13T10:48:02: Parsing "encodings.unicode_escape" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\unicode_escape.py")
+2017-06-13T10:48:02: Parsing "encodings.unicode_internal" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\unicode_internal.py")
+2017-06-13T10:48:02: Parsing "encodings.utf_16" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\utf_16.py")
+2017-06-13T10:48:02: Parsing "encodings.utf_16_be" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\utf_16_be.py")
+2017-06-13T10:48:02: Parsing "encodings.utf_16_le" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\utf_16_le.py")
+2017-06-13T10:48:02: Parsing "encodings.utf_32" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\utf_32.py")
+2017-06-13T10:48:02: Parsing "encodings.utf_32_be" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\utf_32_be.py")
+2017-06-13T10:48:02: Parsing "encodings.utf_32_le" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\utf_32_le.py")
+2017-06-13T10:48:02: Parsing "encodings.utf_7" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\utf_7.py")
+2017-06-13T10:48:02: Parsing "encodings.utf_8" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\utf_8.py")
+2017-06-13T10:48:02: Parsing "encodings.utf_8_sig" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\utf_8_sig.py")
+2017-06-13T10:48:02: Parsing "encodings.uu_codec" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\uu_codec.py")
+2017-06-13T10:48:02: Parsing "encodings.zlib_codec" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\zlib_codec.py")
+2017-06-13T10:48:02: Parsing "encodings" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\encodings\__init__.py")
+2017-06-13T10:48:02: Parsing "importlib.abc" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\importlib\abc.py")
+2017-06-13T10:48:02: Parsing "importlib.machinery" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\importlib\machinery.py")
+2017-06-13T10:48:02: Parsing "importlib.util" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\importlib\util.py")
+2017-06-13T10:48:02: Parsing "importlib._bootstrap" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\importlib\_bootstrap.py")
+2017-06-13T10:48:02: Parsing "importlib" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\importlib\__init__.py")
+2017-06-13T10:48:02: Parsing complete
+2017-06-13T10:48:02: Analyzing "abc"
+2017-06-13T10:48:02: Analyzing "base64"
+2017-06-13T10:48:02: Analyzing "bisect"
+2017-06-13T10:48:02: Analyzing "codecs"
+2017-06-13T10:48:02: Analyzing "copy"
+2017-06-13T10:48:02: Analyzing "copyreg"
+2017-06-13T10:48:02: Analyzing "fnmatch"
+2017-06-13T10:48:02: Analyzing "functools"
+2017-06-13T10:48:02: Analyzing "genericpath"
+2017-06-13T10:48:02: Analyzing "hashlib"
+2017-06-13T10:48:02: Analyzing "heapq"
+2017-06-13T10:48:02: Analyzing "hmac"
+2017-06-13T10:48:02: Analyzing "imp"
+2017-06-13T10:48:02: Analyzing "io"
+2017-06-13T10:48:02: Analyzing "keyword"
+2017-06-13T10:48:02: Analyzing "linecache"
+2017-06-13T10:48:02: Analyzing "locale"
+2017-06-13T10:48:02: Analyzing "ntpath"
+2017-06-13T10:48:02: Analyzing "operator"
+2017-06-13T10:48:02: Analyzing "os"
+2017-06-13T10:48:02: Analyzing "posixpath"
+2017-06-13T10:48:02: Analyzing "random"
+2017-06-13T10:48:02: Analyzing "re"
+2017-06-13T10:48:02: Analyzing "reprlib"
+2017-06-13T10:48:02: Analyzing "rlcompleter"
+2017-06-13T10:48:02: Analyzing "shutil"
+2017-06-13T10:48:02: Analyzing "site"
+2017-06-13T10:48:02: Analyzing "sre_compile"
+2017-06-13T10:48:02: Analyzing "sre_constants"
+2017-06-13T10:48:02: Analyzing "sre_parse"
+2017-06-13T10:48:02: Analyzing "stat"
+2017-06-13T10:48:02: Analyzing "struct"
+2017-06-13T10:48:02: Analyzing "tarfile"
+2017-06-13T10:48:02: Analyzing "tempfile"
+2017-06-13T10:48:02: Analyzing "token"
+2017-06-13T10:48:02: Analyzing "tokenize"
+2017-06-13T10:48:02: Analyzing "types"
+2017-06-13T10:48:02: Analyzing "warnings"
+2017-06-13T10:48:02: Analyzing "weakref"
+2017-06-13T10:48:02: Analyzing "_bootlocale"
+2017-06-13T10:48:02: Analyzing "_collections_abc"
+2017-06-13T10:48:02: Analyzing "_dummy_thread"
+2017-06-13T10:48:02: Analyzing "_weakrefset"
+2017-06-13T10:48:02: Analyzing "__future__"
+2017-06-13T10:48:02: Analyzing "collections.abc"
+2017-06-13T10:48:02: Analyzing "collections"
+2017-06-13T10:48:02: Analyzing "collections.__main__"
+2017-06-13T10:48:02: Analyzing "distutils"
+2017-06-13T10:48:02: Analyzing "encodings.aliases"
+2017-06-13T10:48:02: Analyzing "encodings.ascii"
+2017-06-13T10:48:02: Analyzing "encodings.base64_codec"
+2017-06-13T10:48:02: Analyzing "encodings.big5"
+2017-06-13T10:48:02: Analyzing "encodings.big5hkscs"
+2017-06-13T10:48:02: Analyzing "encodings.bz2_codec"
+2017-06-13T10:48:02: Analyzing "encodings.charmap"
+2017-06-13T10:48:02: Analyzing "encodings.cp037"
+2017-06-13T10:48:02: Analyzing "encodings.cp1006"
+2017-06-13T10:48:02: Analyzing "encodings.cp1026"
+2017-06-13T10:48:02: Analyzing "encodings.cp1125"
+2017-06-13T10:48:02: Analyzing "encodings.cp1140"
+2017-06-13T10:48:02: Analyzing "encodings.cp1250"
+2017-06-13T10:48:02: Analyzing "encodings.cp1251"
+2017-06-13T10:48:02: Analyzing "encodings.cp1252"
+2017-06-13T10:48:02: Analyzing "encodings.cp1253"
+2017-06-13T10:48:02: Analyzing "encodings.cp1254"
+2017-06-13T10:48:02: Analyzing "encodings.cp1255"
+2017-06-13T10:48:02: Analyzing "encodings.cp1256"
+2017-06-13T10:48:02: Analyzing "encodings.cp1257"
+2017-06-13T10:48:02: Analyzing "encodings.cp1258"
+2017-06-13T10:48:02: Analyzing "encodings.cp273"
+2017-06-13T10:48:02: Analyzing "encodings.cp424"
+2017-06-13T10:48:02: Analyzing "encodings.cp437"
+2017-06-13T10:48:02: Analyzing "encodings.cp500"
+2017-06-13T10:48:02: Analyzing "encodings.cp65001"
+2017-06-13T10:48:02: Analyzing "encodings.cp720"
+2017-06-13T10:48:02: Analyzing "encodings.cp737"
+2017-06-13T10:48:02: Analyzing "encodings.cp775"
+2017-06-13T10:48:02: Analyzing "encodings.cp850"
+2017-06-13T10:48:02: Analyzing "encodings.cp852"
+2017-06-13T10:48:02: Analyzing "encodings.cp855"
+2017-06-13T10:48:02: Analyzing "encodings.cp856"
+2017-06-13T10:48:02: Analyzing "encodings.cp857"
+2017-06-13T10:48:02: Analyzing "encodings.cp858"
+2017-06-13T10:48:02: Analyzing "encodings.cp860"
+2017-06-13T10:48:02: Analyzing "encodings.cp861"
+2017-06-13T10:48:02: Analyzing "encodings.cp862"
+2017-06-13T10:48:02: Analyzing "encodings.cp863"
+2017-06-13T10:48:02: Analyzing "encodings.cp864"
+2017-06-13T10:48:02: Analyzing "encodings.cp865"
+2017-06-13T10:48:02: Analyzing "encodings.cp866"
+2017-06-13T10:48:02: Analyzing "encodings.cp869"
+2017-06-13T10:48:02: Analyzing "encodings.cp874"
+2017-06-13T10:48:02: Analyzing "encodings.cp875"
+2017-06-13T10:48:02: Analyzing "encodings.cp932"
+2017-06-13T10:48:02: Analyzing "encodings.cp949"
+2017-06-13T10:48:02: Analyzing "encodings.cp950"
+2017-06-13T10:48:02: Analyzing "encodings.euc_jisx0213"
+2017-06-13T10:48:02: Analyzing "encodings.euc_jis_2004"
+2017-06-13T10:48:02: Analyzing "encodings.euc_jp"
+2017-06-13T10:48:02: Analyzing "encodings.euc_kr"
+2017-06-13T10:48:02: Analyzing "encodings.gb18030"
+2017-06-13T10:48:02: Analyzing "encodings.gb2312"
+2017-06-13T10:48:02: Analyzing "encodings.gbk"
+2017-06-13T10:48:02: Analyzing "encodings.hex_codec"
+2017-06-13T10:48:02: Analyzing "encodings.hp_roman8"
+2017-06-13T10:48:02: Analyzing "encodings.hz"
+2017-06-13T10:48:02: Analyzing "encodings.idna"
+2017-06-13T10:48:02: Analyzing "encodings.iso2022_jp"
+2017-06-13T10:48:02: Analyzing "encodings.iso2022_jp_1"
+2017-06-13T10:48:02: Analyzing "encodings.iso2022_jp_2"
+2017-06-13T10:48:02: Analyzing "encodings.iso2022_jp_2004"
+2017-06-13T10:48:02: Analyzing "encodings.iso2022_jp_3"
+2017-06-13T10:48:02: Analyzing "encodings.iso2022_jp_ext"
+2017-06-13T10:48:02: Analyzing "encodings.iso2022_kr"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_1"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_10"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_11"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_13"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_14"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_15"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_16"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_2"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_3"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_4"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_5"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_6"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_7"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_8"
+2017-06-13T10:48:02: Analyzing "encodings.iso8859_9"
+2017-06-13T10:48:02: Analyzing "encodings.johab"
+2017-06-13T10:48:02: Analyzing "encodings.koi8_r"
+2017-06-13T10:48:02: Analyzing "encodings.koi8_u"
+2017-06-13T10:48:02: Analyzing "encodings.latin_1"
+2017-06-13T10:48:02: Analyzing "encodings.mac_arabic"
+2017-06-13T10:48:02: Analyzing "encodings.mac_centeuro"
+2017-06-13T10:48:02: Analyzing "encodings.mac_croatian"
+2017-06-13T10:48:02: Analyzing "encodings.mac_cyrillic"
+2017-06-13T10:48:02: Analyzing "encodings.mac_farsi"
+2017-06-13T10:48:02: Analyzing "encodings.mac_greek"
+2017-06-13T10:48:02: Analyzing "encodings.mac_iceland"
+2017-06-13T10:48:02: Analyzing "encodings.mac_latin2"
+2017-06-13T10:48:02: Analyzing "encodings.mac_roman"
+2017-06-13T10:48:02: Analyzing "encodings.mac_romanian"
+2017-06-13T10:48:02: Analyzing "encodings.mac_turkish"
+2017-06-13T10:48:02: Analyzing "encodings.mbcs"
+2017-06-13T10:48:02: Analyzing "encodings.palmos"
+2017-06-13T10:48:02: Analyzing "encodings.ptcp154"
+2017-06-13T10:48:02: Analyzing "encodings.punycode"
+2017-06-13T10:48:02: Analyzing "encodings.quopri_codec"
+2017-06-13T10:48:02: Analyzing "encodings.raw_unicode_escape"
+2017-06-13T10:48:02: Analyzing "encodings.rot_13"
+2017-06-13T10:48:02: Analyzing "encodings.shift_jis"
+2017-06-13T10:48:02: Analyzing "encodings.shift_jisx0213"
+2017-06-13T10:48:02: Analyzing "encodings.shift_jis_2004"
+2017-06-13T10:48:02: Analyzing "encodings.tis_620"
+2017-06-13T10:48:02: Analyzing "encodings.undefined"
+2017-06-13T10:48:02: Analyzing "encodings.unicode_escape"
+2017-06-13T10:48:02: Analyzing "encodings.unicode_internal"
+2017-06-13T10:48:02: Analyzing "encodings.utf_16"
+2017-06-13T10:48:02: Analyzing "encodings.utf_16_be"
+2017-06-13T10:48:02: Analyzing "encodings.utf_16_le"
+2017-06-13T10:48:02: Analyzing "encodings.utf_32"
+2017-06-13T10:48:02: Analyzing "encodings.utf_32_be"
+2017-06-13T10:48:02: Analyzing "encodings.utf_32_le"
+2017-06-13T10:48:02: Analyzing "encodings.utf_7"
+2017-06-13T10:48:02: Analyzing "encodings.utf_8"
+2017-06-13T10:48:02: Analyzing "encodings.utf_8_sig"
+2017-06-13T10:48:02: Analyzing "encodings.uu_codec"
+2017-06-13T10:48:02: Analyzing "encodings.zlib_codec"
+2017-06-13T10:48:02: Analyzing "encodings"
+2017-06-13T10:48:02: Analyzing "importlib.abc"
+2017-06-13T10:48:02: Analyzing "importlib.machinery"
+2017-06-13T10:48:02: Analyzing "importlib.util"
+2017-06-13T10:48:02: Analyzing "importlib._bootstrap"
+2017-06-13T10:48:02: Analyzing "importlib"
+2017-06-13T10:48:02: Starting analysis of 175 modules
+2017-06-13T10:48:04: Analysis complete
+2017-06-13T10:48:04: Saving group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib"
+2017-06-13T10:48:05: End of group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib"
+2017-06-13T10:48:05: Start group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages" with 1 files
+2017-06-13T10:48:06: Parsing "easy_install" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\easy_install.py")
+2017-06-13T10:48:06: Parsing complete
+2017-06-13T10:48:06: Analyzing "easy_install"
+2017-06-13T10:48:06: Starting analysis of 1 modules
+2017-06-13T10:48:06: Analysis complete
+2017-06-13T10:48:06: Saving group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages"
+2017-06-13T10:48:06: End of group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages"
+2017-06-13T10:48:06: Start group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Scripts" with 1 files
+2017-06-13T10:48:08: Parsing "activate_this" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Scripts\activate_this.py")
+2017-06-13T10:48:08: Parsing complete
+2017-06-13T10:48:08: Analyzing "activate_this"
+2017-06-13T10:48:08: Starting analysis of 1 modules
+2017-06-13T10:48:08: Analysis complete
+2017-06-13T10:48:08: Saving group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Scripts"
+2017-06-13T10:48:08: End of group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Scripts"
+2017-06-13T10:48:08: Start group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip" with 241 files
+2017-06-13T10:48:09: Parsing "pip.basecommand" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\basecommand.py")
+2017-06-13T10:48:09: Parsing "pip.baseparser" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\baseparser.py")
+2017-06-13T10:48:09: Parsing "pip.cmdoptions" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\cmdoptions.py")
+2017-06-13T10:48:09: Parsing "pip.download" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\download.py")
+2017-06-13T10:48:09: Parsing "pip.exceptions" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\exceptions.py")
+2017-06-13T10:48:09: Parsing "pip.index" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\index.py")
+2017-06-13T10:48:09: Parsing "pip.locations" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\locations.py")
+2017-06-13T10:48:09: Parsing "pip.pep425tags" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\pep425tags.py")
+2017-06-13T10:48:09: Parsing "pip.status_codes" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\status_codes.py")
+2017-06-13T10:48:09: Parsing "pip.wheel" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\wheel.py")
+2017-06-13T10:48:09: Parsing "pip" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\__init__.py")
+2017-06-13T10:48:09: Parsing "pip.__main__" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\__main__.py")
+2017-06-13T10:48:09: Parsing "pip.commands.check" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\commands\check.py")
+2017-06-13T10:48:09: Parsing "pip.commands.completion" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\commands\completion.py")
+2017-06-13T10:48:09: Parsing "pip.commands.download" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\commands\download.py")
+2017-06-13T10:48:09: Parsing "pip.commands.freeze" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\commands\freeze.py")
+2017-06-13T10:48:09: Parsing "pip.commands.hash" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\commands\hash.py")
+2017-06-13T10:48:09: Parsing "pip.commands.help" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\commands\help.py")
+2017-06-13T10:48:09: Parsing "pip.commands.install" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\commands\install.py")
+2017-06-13T10:48:09: Parsing "pip.commands.list" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\commands\list.py")
+2017-06-13T10:48:09: Parsing "pip.commands.search" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\commands\search.py")
+2017-06-13T10:48:09: Parsing "pip.commands.show" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\commands\show.py")
+2017-06-13T10:48:09: Parsing "pip.commands.uninstall" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\commands\uninstall.py")
+2017-06-13T10:48:09: Parsing "pip.commands.wheel" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\commands\wheel.py")
+2017-06-13T10:48:09: Parsing "pip.commands" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\commands\__init__.py")
+2017-06-13T10:48:09: Parsing "pip.compat.dictconfig" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\compat\dictconfig.py")
+2017-06-13T10:48:09: Parsing "pip.compat" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\compat\__init__.py")
+2017-06-13T10:48:09: Parsing "pip.models.index" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\models\index.py")
+2017-06-13T10:48:09: Parsing "pip.models" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\models\__init__.py")
+2017-06-13T10:48:09: Parsing "pip.operations.check" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\operations\check.py")
+2017-06-13T10:48:09: Parsing "pip.operations.freeze" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\operations\freeze.py")
+2017-06-13T10:48:09: Parsing "pip.operations" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\operations\__init__.py")
+2017-06-13T10:48:09: Parsing "pip.req.req_file" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\req\req_file.py")
+2017-06-13T10:48:09: Parsing "pip.req.req_install" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\req\req_install.py")
+2017-06-13T10:48:09: Parsing "pip.req.req_set" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\req\req_set.py")
+2017-06-13T10:48:09: Parsing "pip.req.req_uninstall" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\req\req_uninstall.py")
+2017-06-13T10:48:09: Parsing "pip.req" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\req\__init__.py")
+2017-06-13T10:48:09: Parsing "pip.utils.appdirs" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\utils\appdirs.py")
+2017-06-13T10:48:09: Parsing "pip.utils.build" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\utils\build.py")
+2017-06-13T10:48:09: Parsing "pip.utils.deprecation" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\utils\deprecation.py")
+2017-06-13T10:48:09: Parsing "pip.utils.encoding" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\utils\encoding.py")
+2017-06-13T10:48:09: Parsing "pip.utils.filesystem" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\utils\filesystem.py")
+2017-06-13T10:48:09: Parsing "pip.utils.glibc" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\utils\glibc.py")
+2017-06-13T10:48:09: Parsing "pip.utils.hashes" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\utils\hashes.py")
+2017-06-13T10:48:09: Parsing "pip.utils.logging" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\utils\logging.py")
+2017-06-13T10:48:09: Parsing "pip.utils.outdated" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\utils\outdated.py")
+2017-06-13T10:48:09: Parsing "pip.utils.packaging" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\utils\packaging.py")
+2017-06-13T10:48:09: Parsing "pip.utils.setuptools_build" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\utils\setuptools_build.py")
+2017-06-13T10:48:09: Parsing "pip.utils.ui" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\utils\ui.py")
+2017-06-13T10:48:09: Parsing "pip.utils" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\utils\__init__.py")
+2017-06-13T10:48:09: Parsing "pip.vcs.bazaar" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\vcs\bazaar.py")
+2017-06-13T10:48:09: Parsing "pip.vcs.git" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\vcs\git.py")
+2017-06-13T10:48:09: Parsing "pip.vcs.mercurial" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\vcs\mercurial.py")
+2017-06-13T10:48:09: Parsing "pip.vcs.subversion" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\vcs\subversion.py")
+2017-06-13T10:48:09: Parsing "pip.vcs" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\vcs\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.appdirs" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\appdirs.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distro" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distro.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.ipaddress" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\ipaddress.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.ordereddict" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\ordereddict.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.pyparsing" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\pyparsing.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.retrying" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\retrying.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.six" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\six.py")
+2017-06-13T10:48:09: Parsing "pip._vendor" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.cachecontrol.adapter" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.cachecontrol.cache" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\cachecontrol\cache.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.cachecontrol.compat" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\cachecontrol\compat.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.cachecontrol.controller" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\cachecontrol\controller.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.cachecontrol.filewrapper" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.cachecontrol.heuristics" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.cachecontrol.serialize" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.cachecontrol.wrapper" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.cachecontrol._cmd" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.cachecontrol" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.cachecontrol.caches.file_cache" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.cachecontrol.caches.redis_cache" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.cachecontrol.caches" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.colorama.ansi" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\colorama\ansi.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.colorama.ansitowin32" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\colorama\ansitowin32.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.colorama.initialise" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\colorama\initialise.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.colorama.win32" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\colorama\win32.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.colorama.winterm" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\colorama\winterm.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.colorama" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\colorama\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib.compat" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\compat.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib.database" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\database.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib.index" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\index.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib.locators" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\locators.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib.manifest" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\manifest.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib.markers" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\markers.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib.metadata" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\metadata.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib.resources" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\resources.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib.scripts" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\scripts.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib.util" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\util.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib.version" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\version.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib.wheel" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\wheel.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib._backport.misc" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\_backport\misc.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib._backport.shutil" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\_backport\shutil.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib._backport.sysconfig" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\_backport\sysconfig.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib._backport.tarfile" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\_backport\tarfile.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.distlib._backport" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\distlib\_backport\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.constants" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\constants.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.html5parser" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\html5parser.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.serializer" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\serializer.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib._ihatexml" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\_ihatexml.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib._inputstream" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\_inputstream.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib._tokenizer" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\_tokenizer.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib._utils" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\_utils.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.filters.alphabeticalattributes" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\filters\alphabeticalattributes.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.filters.base" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\filters\base.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.filters.inject_meta_charset" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\filters\inject_meta_charset.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.filters.lint" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\filters\lint.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.filters.optionaltags" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\filters\optionaltags.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.filters.sanitizer" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\filters\sanitizer.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.filters.whitespace" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\filters\whitespace.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.filters" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\filters\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.treeadapters.genshi" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\genshi.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.treeadapters.sax" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\sax.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.treeadapters" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\treeadapters\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.treebuilders.base" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\base.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.treebuilders.dom" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\dom.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.treebuilders.etree" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.treebuilders.etree_lxml" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.treebuilders" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.treewalkers.base" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\base.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.treewalkers.dom" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\dom.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.treewalkers.etree" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.treewalkers.etree_lxml" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree_lxml.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.treewalkers.genshi" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshi.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib.treewalkers" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\treewalkers\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib._trie.datrie" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\_trie\datrie.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib._trie.py" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\_trie\py.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib._trie._base" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\_trie\_base.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.html5lib._trie" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\html5lib\_trie\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.lockfile.linklockfile" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\lockfile\linklockfile.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.lockfile.mkdirlockfile" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\lockfile\mkdirlockfile.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.lockfile.pidlockfile" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\lockfile\pidlockfile.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.lockfile.sqlitelockfile" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\lockfile\sqlitelockfile.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.lockfile.symlinklockfile" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\lockfile\symlinklockfile.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.lockfile" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\lockfile\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.packaging.markers" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\packaging\markers.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.packaging.requirements" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\packaging\requirements.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.packaging.specifiers" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\packaging\specifiers.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.packaging.utils" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\packaging\utils.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.packaging.version" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\packaging\version.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.packaging._compat" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\packaging\_compat.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.packaging._structures" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\packaging\_structures.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.packaging.__about__" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\packaging\__about__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.packaging" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\packaging\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.pkg_resources" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.progress.bar" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\progress\bar.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.progress.counter" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\progress\counter.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.progress.helpers" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\progress\helpers.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.progress.spinner" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\progress\spinner.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.progress" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\progress\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.adapters" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\adapters.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.api" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\api.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.auth" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\auth.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.certs" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\certs.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.compat" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\compat.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.cookies" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\cookies.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.exceptions" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\exceptions.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.hooks" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\hooks.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.models" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\models.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.sessions" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\sessions.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.status_codes" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\status_codes.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.structures" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\structures.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.utils" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\utils.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.big5freq" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5freq.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.big5prober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\big5prober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.chardetect" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardetect.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.chardistribution" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\chardistribution.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.charsetgroupprober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetgroupprober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.charsetprober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\charsetprober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.codingstatemachine" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\codingstatemachine.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.compat" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\compat.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.constants" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\constants.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.cp949prober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\cp949prober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.escprober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escprober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.escsm" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\escsm.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.eucjpprober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\eucjpprober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.euckrfreq" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrfreq.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.euckrprober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euckrprober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.euctwfreq" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwfreq.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.euctwprober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\euctwprober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.gb2312freq" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312freq.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.gb2312prober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\gb2312prober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.hebrewprober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\hebrewprober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.jisfreq" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jisfreq.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.jpcntx" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\jpcntx.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.langbulgarianmodel" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langbulgarianmodel.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.langcyrillicmodel" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langcyrillicmodel.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.langgreekmodel" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langgreekmodel.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.langhebrewmodel" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhebrewmodel.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.langhungarianmodel" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langhungarianmodel.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.langthaimodel" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\langthaimodel.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.latin1prober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\latin1prober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.mbcharsetprober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcharsetprober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.mbcsgroupprober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcsgroupprober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.mbcssm" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\mbcssm.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.sbcharsetprober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcharsetprober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.sbcsgroupprober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sbcsgroupprober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.sjisprober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\sjisprober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.universaldetector" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\universaldetector.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet.utf8prober" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\utf8prober.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.chardet" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\chardet\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.connection" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connection.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.connectionpool" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\connectionpool.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.exceptions" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\exceptions.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.fields" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\fields.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.filepost" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\filepost.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.poolmanager" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\poolmanager.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.request" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\request.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.response" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\response.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3._collections" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\_collections.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.contrib.appengine" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\appengine.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\ntlmpool.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\pyopenssl.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.contrib.socks" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\socks.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.contrib" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\contrib\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.packages.ordered_dict" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ordered_dict.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.packages.six" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\six.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.packages" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\_implementation.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\packages\ssl_match_hostname\__init__.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.util.connection" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\connection.py")
+2017-06-13T10:48:09: Parsing "pip._vendor.requests.packages.urllib3.util.request" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\request.py")
+2017-06-13T10:48:10: Parsing "pip._vendor.requests.packages.urllib3.util.response" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\response.py")
+2017-06-13T10:48:10: Parsing "pip._vendor.requests.packages.urllib3.util.retry" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\retry.py")
+2017-06-13T10:48:10: Parsing "pip._vendor.requests.packages.urllib3.util.ssl_" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\ssl_.py")
+2017-06-13T10:48:10: Parsing "pip._vendor.requests.packages.urllib3.util.timeout" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\timeout.py")
+2017-06-13T10:48:10: Parsing "pip._vendor.requests.packages.urllib3.util.url" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\url.py")
+2017-06-13T10:48:10: Parsing "pip._vendor.requests.packages.urllib3.util" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\requests\packages\urllib3\util\__init__.py")
+2017-06-13T10:48:10: Parsing "pip._vendor.webencodings.labels" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\webencodings\labels.py")
+2017-06-13T10:48:10: Parsing "pip._vendor.webencodings.mklabels" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\webencodings\mklabels.py")
+2017-06-13T10:48:10: Parsing "pip._vendor.webencodings.tests" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\webencodings\tests.py")
+2017-06-13T10:48:10: Parsing "pip._vendor.webencodings.x_user_defined" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\webencodings\x_user_defined.py")
+2017-06-13T10:48:10: Parsing "pip._vendor.webencodings" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip\_vendor\webencodings\__init__.py")
+2017-06-13T10:48:10: Parsing complete
+2017-06-13T10:48:10: Analyzing "pip.basecommand"
+2017-06-13T10:48:10: Analyzing "pip.baseparser"
+2017-06-13T10:48:10: Analyzing "pip.cmdoptions"
+2017-06-13T10:48:10: Analyzing "pip.download"
+2017-06-13T10:48:10: Analyzing "pip.exceptions"
+2017-06-13T10:48:10: Analyzing "pip.index"
+2017-06-13T10:48:10: Analyzing "pip.locations"
+2017-06-13T10:48:10: Analyzing "pip.pep425tags"
+2017-06-13T10:48:10: Analyzing "pip.status_codes"
+2017-06-13T10:48:10: Analyzing "pip.wheel"
+2017-06-13T10:48:10: Analyzing "pip"
+2017-06-13T10:48:10: Analyzing "pip.__main__"
+2017-06-13T10:48:10: Analyzing "pip.commands.check"
+2017-06-13T10:48:10: Analyzing "pip.commands.completion"
+2017-06-13T10:48:10: Analyzing "pip.commands.download"
+2017-06-13T10:48:10: Analyzing "pip.commands.freeze"
+2017-06-13T10:48:10: Analyzing "pip.commands.hash"
+2017-06-13T10:48:10: Analyzing "pip.commands.help"
+2017-06-13T10:48:10: Analyzing "pip.commands.install"
+2017-06-13T10:48:10: Analyzing "pip.commands.list"
+2017-06-13T10:48:10: Analyzing "pip.commands.search"
+2017-06-13T10:48:10: Analyzing "pip.commands.show"
+2017-06-13T10:48:10: Analyzing "pip.commands.uninstall"
+2017-06-13T10:48:10: Analyzing "pip.commands.wheel"
+2017-06-13T10:48:10: Analyzing "pip.commands"
+2017-06-13T10:48:10: Analyzing "pip.compat.dictconfig"
+2017-06-13T10:48:10: Analyzing "pip.compat"
+2017-06-13T10:48:10: Analyzing "pip.models.index"
+2017-06-13T10:48:10: Analyzing "pip.models"
+2017-06-13T10:48:10: Analyzing "pip.operations.check"
+2017-06-13T10:48:10: Analyzing "pip.operations.freeze"
+2017-06-13T10:48:10: Analyzing "pip.operations"
+2017-06-13T10:48:10: Analyzing "pip.req.req_file"
+2017-06-13T10:48:10: Analyzing "pip.req.req_install"
+2017-06-13T10:48:10: Analyzing "pip.req.req_set"
+2017-06-13T10:48:10: Analyzing "pip.req.req_uninstall"
+2017-06-13T10:48:10: Analyzing "pip.req"
+2017-06-13T10:48:10: Analyzing "pip.utils.appdirs"
+2017-06-13T10:48:10: Analyzing "pip.utils.build"
+2017-06-13T10:48:10: Analyzing "pip.utils.deprecation"
+2017-06-13T10:48:10: Analyzing "pip.utils.encoding"
+2017-06-13T10:48:10: Analyzing "pip.utils.filesystem"
+2017-06-13T10:48:10: Analyzing "pip.utils.glibc"
+2017-06-13T10:48:10: Analyzing "pip.utils.hashes"
+2017-06-13T10:48:10: Analyzing "pip.utils.logging"
+2017-06-13T10:48:10: Analyzing "pip.utils.outdated"
+2017-06-13T10:48:10: Analyzing "pip.utils.packaging"
+2017-06-13T10:48:10: Analyzing "pip.utils.setuptools_build"
+2017-06-13T10:48:10: Analyzing "pip.utils.ui"
+2017-06-13T10:48:10: Analyzing "pip.utils"
+2017-06-13T10:48:10: Analyzing "pip.vcs.bazaar"
+2017-06-13T10:48:10: Analyzing "pip.vcs.git"
+2017-06-13T10:48:10: Analyzing "pip.vcs.mercurial"
+2017-06-13T10:48:10: Analyzing "pip.vcs.subversion"
+2017-06-13T10:48:10: Analyzing "pip.vcs"
+2017-06-13T10:48:10: Analyzing "pip._vendor.appdirs"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distro"
+2017-06-13T10:48:10: Analyzing "pip._vendor.ipaddress"
+2017-06-13T10:48:10: Analyzing "pip._vendor.ordereddict"
+2017-06-13T10:48:10: Analyzing "pip._vendor.pyparsing"
+2017-06-13T10:48:10: Analyzing "pip._vendor.retrying"
+2017-06-13T10:48:10: Analyzing "pip._vendor.six"
+2017-06-13T10:48:10: Analyzing "pip._vendor"
+2017-06-13T10:48:10: Analyzing "pip._vendor.cachecontrol.adapter"
+2017-06-13T10:48:10: Analyzing "pip._vendor.cachecontrol.cache"
+2017-06-13T10:48:10: Analyzing "pip._vendor.cachecontrol.compat"
+2017-06-13T10:48:10: Analyzing "pip._vendor.cachecontrol.controller"
+2017-06-13T10:48:10: Analyzing "pip._vendor.cachecontrol.filewrapper"
+2017-06-13T10:48:10: Analyzing "pip._vendor.cachecontrol.heuristics"
+2017-06-13T10:48:10: Analyzing "pip._vendor.cachecontrol.serialize"
+2017-06-13T10:48:10: Analyzing "pip._vendor.cachecontrol.wrapper"
+2017-06-13T10:48:10: Analyzing "pip._vendor.cachecontrol._cmd"
+2017-06-13T10:48:10: Analyzing "pip._vendor.cachecontrol"
+2017-06-13T10:48:10: Analyzing "pip._vendor.cachecontrol.caches.file_cache"
+2017-06-13T10:48:10: Analyzing "pip._vendor.cachecontrol.caches.redis_cache"
+2017-06-13T10:48:10: Analyzing "pip._vendor.cachecontrol.caches"
+2017-06-13T10:48:10: Analyzing "pip._vendor.colorama.ansi"
+2017-06-13T10:48:10: Analyzing "pip._vendor.colorama.ansitowin32"
+2017-06-13T10:48:10: Analyzing "pip._vendor.colorama.initialise"
+2017-06-13T10:48:10: Analyzing "pip._vendor.colorama.win32"
+2017-06-13T10:48:10: Analyzing "pip._vendor.colorama.winterm"
+2017-06-13T10:48:10: Analyzing "pip._vendor.colorama"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib.compat"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib.database"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib.index"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib.locators"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib.manifest"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib.markers"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib.metadata"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib.resources"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib.scripts"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib.util"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib.version"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib.wheel"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib._backport.misc"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib._backport.shutil"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib._backport.sysconfig"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib._backport.tarfile"
+2017-06-13T10:48:10: Analyzing "pip._vendor.distlib._backport"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.constants"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.html5parser"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.serializer"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib._ihatexml"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib._inputstream"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib._tokenizer"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib._utils"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.filters.alphabeticalattributes"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.filters.base"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.filters.inject_meta_charset"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.filters.lint"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.filters.optionaltags"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.filters.sanitizer"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.filters.whitespace"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.filters"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.treeadapters.genshi"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.treeadapters.sax"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.treeadapters"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.treebuilders.base"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.treebuilders.dom"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.treebuilders.etree"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.treebuilders.etree_lxml"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.treebuilders"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.treewalkers.base"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.treewalkers.dom"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.treewalkers.etree"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.treewalkers.etree_lxml"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.treewalkers.genshi"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib.treewalkers"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib._trie.datrie"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib._trie.py"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib._trie._base"
+2017-06-13T10:48:10: Analyzing "pip._vendor.html5lib._trie"
+2017-06-13T10:48:10: Analyzing "pip._vendor.lockfile.linklockfile"
+2017-06-13T10:48:10: Analyzing "pip._vendor.lockfile.mkdirlockfile"
+2017-06-13T10:48:10: Analyzing "pip._vendor.lockfile.pidlockfile"
+2017-06-13T10:48:10: Analyzing "pip._vendor.lockfile.sqlitelockfile"
+2017-06-13T10:48:10: Analyzing "pip._vendor.lockfile.symlinklockfile"
+2017-06-13T10:48:10: Analyzing "pip._vendor.lockfile"
+2017-06-13T10:48:10: Analyzing "pip._vendor.packaging.markers"
+2017-06-13T10:48:10: Analyzing "pip._vendor.packaging.requirements"
+2017-06-13T10:48:10: Analyzing "pip._vendor.packaging.specifiers"
+2017-06-13T10:48:10: Analyzing "pip._vendor.packaging.utils"
+2017-06-13T10:48:10: Analyzing "pip._vendor.packaging.version"
+2017-06-13T10:48:10: Analyzing "pip._vendor.packaging._compat"
+2017-06-13T10:48:10: Analyzing "pip._vendor.packaging._structures"
+2017-06-13T10:48:10: Analyzing "pip._vendor.packaging.__about__"
+2017-06-13T10:48:10: Analyzing "pip._vendor.packaging"
+2017-06-13T10:48:10: Analyzing "pip._vendor.pkg_resources"
+2017-06-13T10:48:10: Analyzing "pip._vendor.progress.bar"
+2017-06-13T10:48:10: Analyzing "pip._vendor.progress.counter"
+2017-06-13T10:48:10: Analyzing "pip._vendor.progress.helpers"
+2017-06-13T10:48:10: Analyzing "pip._vendor.progress.spinner"
+2017-06-13T10:48:10: Analyzing "pip._vendor.progress"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.adapters"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.api"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.auth"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.certs"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.compat"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.cookies"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.exceptions"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.hooks"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.models"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.sessions"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.status_codes"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.structures"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.utils"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.big5freq"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.big5prober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.chardetect"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.chardistribution"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.charsetgroupprober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.charsetprober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.codingstatemachine"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.compat"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.constants"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.cp949prober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.escprober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.escsm"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.eucjpprober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.euckrfreq"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.euckrprober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.euctwfreq"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.euctwprober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.gb2312freq"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.gb2312prober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.hebrewprober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.jisfreq"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.jpcntx"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.langbulgarianmodel"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.langcyrillicmodel"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.langgreekmodel"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.langhebrewmodel"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.langhungarianmodel"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.langthaimodel"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.latin1prober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.mbcharsetprober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.mbcsgroupprober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.mbcssm"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.sbcharsetprober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.sbcsgroupprober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.sjisprober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.universaldetector"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet.utf8prober"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.chardet"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.connection"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.connectionpool"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.exceptions"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.fields"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.filepost"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.poolmanager"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.request"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.response"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3._collections"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.contrib.appengine"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.contrib.ntlmpool"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.contrib.pyopenssl"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.contrib.socks"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.contrib"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.packages.ordered_dict"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.packages.six"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.packages"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname._implementation"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.packages.ssl_match_hostname"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.util.connection"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.util.request"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.util.response"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.util.retry"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.util.ssl_"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.util.timeout"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.util.url"
+2017-06-13T10:48:10: Analyzing "pip._vendor.requests.packages.urllib3.util"
+2017-06-13T10:48:10: Analyzing "pip._vendor.webencodings.labels"
+2017-06-13T10:48:10: Analyzing "pip._vendor.webencodings.mklabels"
+2017-06-13T10:48:10: Analyzing "pip._vendor.webencodings.tests"
+2017-06-13T10:48:10: Analyzing "pip._vendor.webencodings.x_user_defined"
+2017-06-13T10:48:10: Analyzing "pip._vendor.webencodings"
+2017-06-13T10:48:10: Starting analysis of 241 modules
+2017-06-13T10:48:16: Analysis complete
+2017-06-13T10:48:16: Saving group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip"
+2017-06-13T10:48:16: End of group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pip"
+2017-06-13T10:48:16: Start group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources" with 15 files
+2017-06-13T10:48:31: Parsing "pkg_resources" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\__init__.py")
+2017-06-13T10:48:31: Parsing "pkg_resources.extern" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\extern\__init__.py")
+2017-06-13T10:48:31: Parsing "pkg_resources._vendor.appdirs" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\_vendor\appdirs.py")
+2017-06-13T10:48:31: Parsing "pkg_resources._vendor.pyparsing" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\_vendor\pyparsing.py")
+2017-06-13T10:48:31: Parsing "pkg_resources._vendor.six" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\_vendor\six.py")
+2017-06-13T10:48:31: Parsing "pkg_resources._vendor" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\_vendor\__init__.py")
+2017-06-13T10:48:31: Parsing "pkg_resources._vendor.packaging.markers" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\_vendor\packaging\markers.py")
+2017-06-13T10:48:31: Parsing "pkg_resources._vendor.packaging.requirements" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\_vendor\packaging\requirements.py")
+2017-06-13T10:48:31: Parsing "pkg_resources._vendor.packaging.specifiers" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\_vendor\packaging\specifiers.py")
+2017-06-13T10:48:31: Parsing "pkg_resources._vendor.packaging.utils" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\_vendor\packaging\utils.py")
+2017-06-13T10:48:31: Parsing "pkg_resources._vendor.packaging.version" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\_vendor\packaging\version.py")
+2017-06-13T10:48:31: Parsing "pkg_resources._vendor.packaging._compat" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\_vendor\packaging\_compat.py")
+2017-06-13T10:48:31: Parsing "pkg_resources._vendor.packaging._structures" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\_vendor\packaging\_structures.py")
+2017-06-13T10:48:31: Parsing "pkg_resources._vendor.packaging.__about__" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\_vendor\packaging\__about__.py")
+2017-06-13T10:48:31: Parsing "pkg_resources._vendor.packaging" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources\_vendor\packaging\__init__.py")
+2017-06-13T10:48:31: Parsing complete
+2017-06-13T10:48:31: Analyzing "pkg_resources"
+2017-06-13T10:48:31: Analyzing "pkg_resources.extern"
+2017-06-13T10:48:31: Analyzing "pkg_resources._vendor.appdirs"
+2017-06-13T10:48:31: Analyzing "pkg_resources._vendor.pyparsing"
+2017-06-13T10:48:31: Analyzing "pkg_resources._vendor.six"
+2017-06-13T10:48:31: Analyzing "pkg_resources._vendor"
+2017-06-13T10:48:31: Analyzing "pkg_resources._vendor.packaging.markers"
+2017-06-13T10:48:31: Analyzing "pkg_resources._vendor.packaging.requirements"
+2017-06-13T10:48:31: Analyzing "pkg_resources._vendor.packaging.specifiers"
+2017-06-13T10:48:31: Analyzing "pkg_resources._vendor.packaging.utils"
+2017-06-13T10:48:31: Analyzing "pkg_resources._vendor.packaging.version"
+2017-06-13T10:48:31: Analyzing "pkg_resources._vendor.packaging._compat"
+2017-06-13T10:48:31: Analyzing "pkg_resources._vendor.packaging._structures"
+2017-06-13T10:48:31: Analyzing "pkg_resources._vendor.packaging.__about__"
+2017-06-13T10:48:31: Analyzing "pkg_resources._vendor.packaging"
+2017-06-13T10:48:31: Starting analysis of 15 modules
+2017-06-13T10:48:33: Analysis complete
+2017-06-13T10:48:33: Saving group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources"
+2017-06-13T10:48:33: End of group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\pkg_resources"
+2017-06-13T10:48:33: Start group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools" with 49 files
+2017-06-13T10:48:44: Parsing "setuptools.archive_util" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\archive_util.py")
+2017-06-13T10:48:44: Parsing "setuptools.config" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\config.py")
+2017-06-13T10:48:44: Parsing "setuptools.depends" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\depends.py")
+2017-06-13T10:48:44: Parsing "setuptools.dep_util" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\dep_util.py")
+2017-06-13T10:48:44: Parsing "setuptools.dist" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\dist.py")
+2017-06-13T10:48:44: Parsing "setuptools.extension" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\extension.py")
+2017-06-13T10:48:44: Parsing "setuptools.glob" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\glob.py")
+2017-06-13T10:48:44: Parsing "setuptools.launch" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\launch.py")
+2017-06-13T10:48:44: Parsing "setuptools.lib2to3_ex" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\lib2to3_ex.py")
+2017-06-13T10:48:44: Parsing "setuptools.monkey" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\monkey.py")
+2017-06-13T10:48:44: Parsing "setuptools.msvc" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\msvc.py")
+2017-06-13T10:48:44: Parsing "setuptools.namespaces" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\namespaces.py")
+2017-06-13T10:48:44: Parsing "setuptools.package_index" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\package_index.py")
+2017-06-13T10:48:44: Parsing "setuptools.py26compat" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\py26compat.py")
+2017-06-13T10:48:44: Parsing "setuptools.py27compat" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\py27compat.py")
+2017-06-13T10:48:44: Parsing "setuptools.py31compat" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\py31compat.py")
+2017-06-13T10:48:44: Parsing "setuptools.py33compat" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\py33compat.py")
+2017-06-13T10:48:44: Parsing "setuptools.py36compat" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\py36compat.py")
+2017-06-13T10:48:44: Parsing "setuptools.sandbox" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\sandbox.py")
+2017-06-13T10:48:44: Parsing "setuptools.ssl_support" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\ssl_support.py")
+2017-06-13T10:48:44: Parsing "setuptools.unicode_utils" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\unicode_utils.py")
+2017-06-13T10:48:44: Parsing "setuptools.version" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\version.py")
+2017-06-13T10:48:44: Parsing "setuptools.windows_support" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\windows_support.py")
+2017-06-13T10:48:44: Parsing "setuptools" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\__init__.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.alias" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\alias.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.bdist_egg" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\bdist_egg.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.bdist_rpm" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\bdist_rpm.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.bdist_wininst" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\bdist_wininst.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.build_clib" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\build_clib.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.build_ext" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\build_ext.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.build_py" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\build_py.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.develop" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\develop.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.easy_install" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\easy_install.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.egg_info" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\egg_info.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.install" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\install.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.install_egg_info" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\install_egg_info.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.install_lib" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\install_lib.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.install_scripts" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\install_scripts.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.py36compat" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\py36compat.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.register" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\register.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.rotate" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\rotate.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.saveopts" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\saveopts.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.sdist" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\sdist.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.setopt" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\setopt.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.test" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\test.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.upload" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\upload.py")
+2017-06-13T10:48:44: Parsing "setuptools.command.upload_docs" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\upload_docs.py")
+2017-06-13T10:48:44: Parsing "setuptools.command" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\command\__init__.py")
+2017-06-13T10:48:44: Parsing "setuptools.extern" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools\extern\__init__.py")
+2017-06-13T10:48:44: Parsing complete
+2017-06-13T10:48:44: Analyzing "setuptools.archive_util"
+2017-06-13T10:48:44: Analyzing "setuptools.config"
+2017-06-13T10:48:44: Analyzing "setuptools.depends"
+2017-06-13T10:48:44: Analyzing "setuptools.dep_util"
+2017-06-13T10:48:44: Analyzing "setuptools.dist"
+2017-06-13T10:48:44: Analyzing "setuptools.extension"
+2017-06-13T10:48:44: Analyzing "setuptools.glob"
+2017-06-13T10:48:44: Analyzing "setuptools.launch"
+2017-06-13T10:48:44: Analyzing "setuptools.lib2to3_ex"
+2017-06-13T10:48:44: Analyzing "setuptools.monkey"
+2017-06-13T10:48:44: Analyzing "setuptools.msvc"
+2017-06-13T10:48:44: Analyzing "setuptools.namespaces"
+2017-06-13T10:48:44: Analyzing "setuptools.package_index"
+2017-06-13T10:48:44: Analyzing "setuptools.py26compat"
+2017-06-13T10:48:44: Analyzing "setuptools.py27compat"
+2017-06-13T10:48:44: Analyzing "setuptools.py31compat"
+2017-06-13T10:48:44: Analyzing "setuptools.py33compat"
+2017-06-13T10:48:44: Analyzing "setuptools.py36compat"
+2017-06-13T10:48:44: Analyzing "setuptools.sandbox"
+2017-06-13T10:48:44: Analyzing "setuptools.ssl_support"
+2017-06-13T10:48:44: Analyzing "setuptools.unicode_utils"
+2017-06-13T10:48:44: Analyzing "setuptools.version"
+2017-06-13T10:48:44: Analyzing "setuptools.windows_support"
+2017-06-13T10:48:44: Analyzing "setuptools"
+2017-06-13T10:48:44: Analyzing "setuptools.command.alias"
+2017-06-13T10:48:44: Analyzing "setuptools.command.bdist_egg"
+2017-06-13T10:48:44: Analyzing "setuptools.command.bdist_rpm"
+2017-06-13T10:48:44: Analyzing "setuptools.command.bdist_wininst"
+2017-06-13T10:48:44: Analyzing "setuptools.command.build_clib"
+2017-06-13T10:48:44: Analyzing "setuptools.command.build_ext"
+2017-06-13T10:48:44: Analyzing "setuptools.command.build_py"
+2017-06-13T10:48:44: Analyzing "setuptools.command.develop"
+2017-06-13T10:48:44: Analyzing "setuptools.command.easy_install"
+2017-06-13T10:48:44: Analyzing "setuptools.command.egg_info"
+2017-06-13T10:48:44: Analyzing "setuptools.command.install"
+2017-06-13T10:48:44: Analyzing "setuptools.command.install_egg_info"
+2017-06-13T10:48:44: Analyzing "setuptools.command.install_lib"
+2017-06-13T10:48:44: Analyzing "setuptools.command.install_scripts"
+2017-06-13T10:48:44: Analyzing "setuptools.command.py36compat"
+2017-06-13T10:48:44: Analyzing "setuptools.command.register"
+2017-06-13T10:48:44: Analyzing "setuptools.command.rotate"
+2017-06-13T10:48:44: Analyzing "setuptools.command.saveopts"
+2017-06-13T10:48:44: Analyzing "setuptools.command.sdist"
+2017-06-13T10:48:44: Analyzing "setuptools.command.setopt"
+2017-06-13T10:48:44: Analyzing "setuptools.command.test"
+2017-06-13T10:48:44: Analyzing "setuptools.command.upload"
+2017-06-13T10:48:44: Analyzing "setuptools.command.upload_docs"
+2017-06-13T10:48:44: Analyzing "setuptools.command"
+2017-06-13T10:48:44: Analyzing "setuptools.extern"
+2017-06-13T10:48:44: Starting analysis of 49 modules
+2017-06-13T10:48:45: Analysis complete
+2017-06-13T10:48:45: Saving group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools"
+2017-06-13T10:48:45: End of group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\setuptools"
+2017-06-13T10:48:45: Start group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel" with 28 files
+2017-06-13T10:48:46: Parsing "wheel.archive" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\archive.py")
+2017-06-13T10:48:46: Parsing "wheel.bdist_wheel" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\bdist_wheel.py")
+2017-06-13T10:48:46: Parsing "wheel.decorator" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\decorator.py")
+2017-06-13T10:48:46: Parsing "wheel.egg2wheel" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\egg2wheel.py")
+2017-06-13T10:48:46: Parsing "wheel.install" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\install.py")
+2017-06-13T10:48:46: Parsing "wheel.metadata" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\metadata.py")
+2017-06-13T10:48:46: Parsing "wheel.paths" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\paths.py")
+2017-06-13T10:48:46: Parsing "wheel.pep425tags" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\pep425tags.py")
+2017-06-13T10:48:46: Parsing "wheel.pkginfo" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\pkginfo.py")
+2017-06-13T10:48:46: Parsing "wheel.util" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\util.py")
+2017-06-13T10:48:46: Parsing "wheel.wininst2wheel" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\wininst2wheel.py")
+2017-06-13T10:48:46: Parsing "wheel" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\__init__.py")
+2017-06-13T10:48:46: Parsing "wheel.__main__" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\__main__.py")
+2017-06-13T10:48:46: Parsing "wheel.signatures.djbec" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\signatures\djbec.py")
+2017-06-13T10:48:46: Parsing "wheel.signatures.ed25519py" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\signatures\ed25519py.py")
+2017-06-13T10:48:46: Parsing "wheel.signatures.keys" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\signatures\keys.py")
+2017-06-13T10:48:46: Parsing "wheel.signatures" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\signatures\__init__.py")
+2017-06-13T10:48:46: Parsing "wheel.test.test_basic" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\test\test_basic.py")
+2017-06-13T10:48:46: Parsing "wheel.test.test_install" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\test\test_install.py")
+2017-06-13T10:48:46: Parsing "wheel.test.test_keys" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\test\test_keys.py")
+2017-06-13T10:48:46: Parsing "wheel.test.test_paths" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\test\test_paths.py")
+2017-06-13T10:48:46: Parsing "wheel.test.test_ranking" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\test\test_ranking.py")
+2017-06-13T10:48:46: Parsing "wheel.test.test_signatures" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\test\test_signatures.py")
+2017-06-13T10:48:46: Parsing "wheel.test.test_tagopt" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\test\test_tagopt.py")
+2017-06-13T10:48:46: Parsing "wheel.test.test_tool" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\test\test_tool.py")
+2017-06-13T10:48:46: Parsing "wheel.test.test_wheelfile" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\test\test_wheelfile.py")
+2017-06-13T10:48:46: Parsing "wheel.test" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\test\__init__.py")
+2017-06-13T10:48:46: Parsing "wheel.tool" ("e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel\tool\__init__.py")
+2017-06-13T10:48:47: Parsing complete
+2017-06-13T10:48:47: Analyzing "wheel.archive"
+2017-06-13T10:48:47: Analyzing "wheel.bdist_wheel"
+2017-06-13T10:48:47: Analyzing "wheel.decorator"
+2017-06-13T10:48:47: Analyzing "wheel.egg2wheel"
+2017-06-13T10:48:47: Analyzing "wheel.install"
+2017-06-13T10:48:47: Analyzing "wheel.metadata"
+2017-06-13T10:48:47: Analyzing "wheel.paths"
+2017-06-13T10:48:47: Analyzing "wheel.pep425tags"
+2017-06-13T10:48:47: Analyzing "wheel.pkginfo"
+2017-06-13T10:48:47: Analyzing "wheel.util"
+2017-06-13T10:48:47: Analyzing "wheel.wininst2wheel"
+2017-06-13T10:48:47: Analyzing "wheel"
+2017-06-13T10:48:47: Analyzing "wheel.__main__"
+2017-06-13T10:48:47: Analyzing "wheel.signatures.djbec"
+2017-06-13T10:48:47: Analyzing "wheel.signatures.ed25519py"
+2017-06-13T10:48:47: Analyzing "wheel.signatures.keys"
+2017-06-13T10:48:47: Analyzing "wheel.signatures"
+2017-06-13T10:48:47: Analyzing "wheel.test.test_basic"
+2017-06-13T10:48:47: Analyzing "wheel.test.test_install"
+2017-06-13T10:48:47: Analyzing "wheel.test.test_keys"
+2017-06-13T10:48:47: Analyzing "wheel.test.test_paths"
+2017-06-13T10:48:47: Analyzing "wheel.test.test_ranking"
+2017-06-13T10:48:47: Analyzing "wheel.test.test_signatures"
+2017-06-13T10:48:47: Analyzing "wheel.test.test_tagopt"
+2017-06-13T10:48:47: Analyzing "wheel.test.test_tool"
+2017-06-13T10:48:47: Analyzing "wheel.test.test_wheelfile"
+2017-06-13T10:48:47: Analyzing "wheel.test"
+2017-06-13T10:48:47: Analyzing "wheel.tool"
+2017-06-13T10:48:47: Starting analysis of 28 modules
+2017-06-13T10:48:47: Analysis complete
+2017-06-13T10:48:47: Saving group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel"
+2017-06-13T10:48:47: End of group "e:\baidupan\tongbu\GitHub\todolist\src\main\python\first\first\env\Lib\site-packages\wheel"
+2017-06-13T10:48:47: Deleting 0 files
